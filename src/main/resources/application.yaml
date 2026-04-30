@@ -4,7 +4,7 @@ spring:
   datasource:
     url: "jdbc:mysql://localhost:3306/patient_tracker?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true"
     username: root
-    password: binary777Code
+    password: root
   jpa:
     hibernate:
       ddl-auto: validate
